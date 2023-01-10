@@ -1,6 +1,6 @@
 👋 Hi, my name is Liam.
 
-I am currently a graduate C# software engineer with a passion for learning and improving my skills. I am currently focused on enhancing my web development skills with the goal to create web apps that are intiuitive and beautiful in design.
+I am currently a C# software engineer with a passion for learning and improving my skills. I am currently focused on enhancing my web development skills with the goal to create web apps that are intiuitive and beautiful in design.
 
 <!---
 ElRoy-A/ElRoy-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
